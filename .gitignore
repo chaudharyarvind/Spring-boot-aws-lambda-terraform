@@ -1,0 +1,9 @@
+.gradle
+.idea
+build
+*.iml
+aws/terraform.tfstate.backup
+aws/terraform.tfstate
+src/test/
+aws/.terraform
+
