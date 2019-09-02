@@ -32,7 +32,7 @@ dependencies {
     compile group: 'com.github.derjust', name: 'spring-data-dynamodb', version: '4.2.3'
     compile('org.projectlombok:lombok:1.16.8')
     compile('com.google.code.gson:gson:2.6.2')
-    compile group: 'com.fasterxml.jackson.core', name: 'jackson-core', version: '2.7.4'
+    compile group: 'com.fasterxml.jackson.core', name: 'jackson-core', version: '2.10.0.pr2'
     testCompile('org.springframework.boot:spring-boot-starter-test')
 }
 
